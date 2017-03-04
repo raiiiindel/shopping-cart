@@ -1,0 +1,66 @@
+body{
+	font-family: Times;
+}
+header{
+	background-color: orange;
+	padding: 20px;
+
+	
+}
+}
+#cartPic{
+	margin-right: 25px;
+}
+#content{
+	margin: 200px;
+	
+}
+img{
+	margin-top: 25px;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+
+}
+
+.itemPic{
+	margin-top: 25px;
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+}
+
+.itemRow{
+	background-color: red;
+	padding: 10px;
+	margin: 10px;
+}
+
+.itemDesc{
+	display: none;
+}
+
+}
+/* .itemsTitle{
+	display: inline-block;
+	text-align: center;
+} */
+.itemPrice{
+	text-align: right;
+
+	}
+.cartItems{
+	display: inline-block;
+}
+#totalTitle{
+	display: inline-block;
+}
+#addingTotal{
+	display: inline-block;
+	float: right;
+
+}
+}
+#total{
+	border-top: solid grey;
+
